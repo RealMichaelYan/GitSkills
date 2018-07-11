@@ -4,7 +4,7 @@ Creating a new branch is quick.
 
 This is a new line added in the middle.
 
-This is really cool.
+This is really cool. I mean really really cool.
 
 Creating a new branch is quick and simple.
 
