@@ -10,4 +10,4 @@ Git is a free software.
 
 This is a bug to be fix.
 
-This is work to be continue...
+This is work to be continue, and this is the updated code.
