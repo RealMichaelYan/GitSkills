@@ -15,3 +15,5 @@ This is a bug to be fix.
 This is work to be continue, and this is the updated code.
 
 A new line is added now with stash.
+
+Another line is added.
