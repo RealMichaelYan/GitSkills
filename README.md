@@ -6,7 +6,7 @@ This is really cool.
 
 Creating a new branch is quick and simple.
 
-Git is free software.
+Git is a free software.
 
 This is a bug to be fix.
 
